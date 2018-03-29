@@ -22,8 +22,8 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=sailfish \
-    BUILD_FINGERPRINT=google/sailfish/sailfish:8.0.0/OPR3.170623.008/4294783:user/release-keys \
-    PRIVATE_BUILD_DESC="sailfish-user 8.0.0 OPR3.170623.008 4294783 release-keys"
+    BUILD_FINGERPRINT=google/sailfish/sailfish:8.1.0/OPM1.171019.021/4565141:user/release-keys \
+    PRIVATE_BUILD_DESC="sailfish-user 8.1.0 OPM1.171019.021 4565141 release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.carbon.maintainer="Myself5"
