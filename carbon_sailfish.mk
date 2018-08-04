@@ -8,10 +8,8 @@ $(call inherit-product, vendor/carbon/config/gsm.mk)
 # Inherit Carbon product configuration
 $(call inherit-product, vendor/carbon/config/common.mk)
 
-# Inherit aosp_sailfish
+# Inherit device configuration 
 $(call inherit-product, device/google/marlin/aosp_sailfish.mk)
-
--include device/google/marlin/sailfish/device-carbon.mk
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := carbon_sailfish
