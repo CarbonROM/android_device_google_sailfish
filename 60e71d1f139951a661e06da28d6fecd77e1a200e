@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher shagbag913 \u003csh4gbag913@gmail.com\u003e 1538596344 -0400\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_google_sailfish\nnonce 1538596335-78CCBA0AA48506ABA8BF6D2C0F68146D1FDC441D\n\n0000000000000000000000000000000000000000 60e71d1f139951a661e06da28d6fecd77e1a200e refs/for/cr-7.0\n-----BEGIN PGP SIGNATURE-----\n\niQFJBAABCAAzFiEEMPGMarC/xEyL/se0RLbG76r6aA0FAlu1HfgVHHNoNGdiYWc5\nMTNAZ21haWwuY29tAAoJEES2xu+q+mgNjjcH+QFH0CBTHCQCA5cJRw0EAV6bs2VR\nn8JPBfDSo0KcASfbB/7nkbmeHefxiOVejlKa/H+e1StJFAngsxmHQSixMH2NG9ir\nxp0aMvj1fC7tLTO5IbgsoxICFwb3Qv83mt8fLT81IymSp39H+p0HCzIlkUYMc+u3\nALL6EIYEgdWYE097fLMcti3h4LIqp6ucyNxATs+M7daXs7VMO4Zu+iIYYEFGx+1A\nZX0Qp3XhxXZZSjIKX3+hb7uLOg3CnZ7/acqRHXu/P+rF/xsWcy4CUCPeRX+xTK5e\ng3Ft1TcVxuWm+eV0wTUVzICRzBpe3QnhN3I+P85DWFLsaNfxLtpbQ3tlpRY\u003d\n\u003dFshV\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
