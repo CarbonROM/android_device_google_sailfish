@@ -20,9 +20,9 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=sailfish \
-    PRIVATE_BUILD_DESC="sailfish-user 9 PPR2.180905.006 4945130 release-keys"
+    PRIVATE_BUILD_DESC="sailfish-user 9 PPR2.181005.003 4984323 release-keys"
 
-BUILD_FINGERPRINT := google/sailfish/sailfish:9/PPR2.180905.006/4945130:user/release-keys
+BUILD_FINGERPRINT := google/sailfish/sailfish:9/PPR2.181005.003/4984323:user/release-keys
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.carbon.maintainer="shagbag913"
